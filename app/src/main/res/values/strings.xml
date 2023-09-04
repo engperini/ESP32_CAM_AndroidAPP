@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">myviewcam</string>
+    <string name="app_UserName">SOPHIA CAM</string>
+    <string name="buttonconnect">ON </string>
+    <string name="title_activity_settings">Configurações Principais</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Configurações de Rede</string>
+    <string name="sync_header">Outras Configurações</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">URL Camera 1</string>
+    <string name="reply_title">Recursos Camera 1</string>
+
+    <string name="signature_title2">URL Camera 2</string>
+    <string name="reply_title2">Recursos Camera 2</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Modificar Avançado</string>
+    <string name="attachment_title">Face Recognition</string>
+    <string name="attachment_summary_on">Ativado</string>
+    <string name="attachment_summary_off">Desativado</string>
+
+    <string name="attachment_title2">Face Detection</string>
+
+</resources>
