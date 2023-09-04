@@ -17,6 +17,12 @@ MyViewCam is an Android app that allows you to view video streams from an ESP32-
 
 - **Camera Switching**: Support for switching between multiple ESP32-CAM cameras.
 
+## ESP32-CAM
+
+**Connect to ESP32-CAM**: Connect to your ESP32-CAM cameraWebserver Arduino Example and enter with your Wifi Settings
+
+  ![image](https://github.com/engperini/ESP32_CAM_AndroidAPP/assets/117356668/06bb2294-0190-411d-a7e3-229421ef61c4)
+
 ## Classes
 
 ### `MainActivity`
